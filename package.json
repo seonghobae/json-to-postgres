@@ -6,6 +6,6 @@
   "author": "Vedad Sose <vedadsose@gmail.com>",
   "dependencies": {
     "argparse": "^1.0.10",
-    "ramda": "^0.26.1"
+    "ramda": "^0.32.0"
   }
 }
